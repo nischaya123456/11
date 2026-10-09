@@ -1,0 +1,4 @@
+body { font-family: Tahoma, sans-serif; background: #fdf3e7; color: #4b2e1e; max-width: 700px; margin: 0 auto; padding: 16px; text-align: center; }
+h1, h2 { color: #b5835a; }
+img { width: 100%; max-width: 400px; border-radius: 12px; }
+ul { display: inline-block; text-align: left; }
